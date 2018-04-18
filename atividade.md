@@ -10,7 +10,7 @@ Testando um novo parágrafo
 
 http://www.google.com
 
-...
+```
 #include <stdio.h>
 int main() {
 	printf("Olaaá GitHub");
